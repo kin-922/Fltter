@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489971672202",
+    "project_id": "flutterchat922",
+    "storage_bucket": "flutterchat922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489971672202:android:2b8d05beaea8f87d2df973",
+        "android_client_info": {
+          "package_name": "co.jp.aimetaversetech.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9Epfh0Hggisrvf-pCml-xaNjb4w1auk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
